@@ -1,0 +1,194 @@
+ls moving_around.txt
+ls movingaround.tx
+history > Test/
+history | less
+ls Michael Wong Resume
+ls OBEY
+ls moving _around.txt
+history>Test/
+ls
+pwd
+Documents/
+cd 
+clear
+history
+touch file2
+touch file1
+cd test_repository/
+mkdir test_repository
+cd ~
+cd ../
+!
+cd ../..
+git init my_first_repository/
+git init
+ls -a
+git --version
+man ls
+cd ...
+cd Resumes/
+ln
+ls -rt
+ls -rt 
+ls -rt/root
+ls ~
+cd Documents/Test/
+michaelwongMBP/
+cd Test/
+!!
+open Steve\ Jobs\ Quotes.docx 
+cd tes
+mkdir Test
+open Koru\ answers.docx 
+cd Documents/
+ls -l
+ls -S
+ls -s
+cd Desktop/ -s
+cd -s Desktop/
+cd S Desktop/
+man -ls
+man -a
+ls -r
+ls-rt
+ls - rt
+ls -t
+cd Movies/
+cd n
+git config --global user.email
+git config --global user.name
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'mwong@scopeoutphotos.com'
+git config --global user.name 'Michael Wong'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sudo brew update
+brew install update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+</plist>
+</dict>
+<string>Window Settings</string>
+<key>type</key>
+<integer>2</integer>
+<key>shellExitAction</key>
+<integer>200</integer>
+<key>rowCount</key>
+<string>Tomorrow Night Eighties</string>
+<key>name</key>
+<key>columnCount</key>
+<true/>
+<key>UseBrightBold</key>
+<key>UseBoldFonts</key>
+</data>
+AAAZAAAAAAAAAAAAAAAAAAAA2Q==
+dmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAA
+YXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hp
+LjgwMDAwMDAxMTkgMC44MDAwMDAwMTE5IDAuODAwMDAwMDExOQAQAYAC0hAREhNaJGNs
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcw
+YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+<data>
+<key>TextColor</key>
+<key>TextBoldColor</key>
+<string>xterm-256color</string>
+<key>TerminalType</key>
+<false/>
+<key>ShowWindowSettingsNameInTitle</key>
+<key>ShowShellCommandInTitle</key>
+<key>ShowDimensionsInTitle</key>
+<key>ShowCommandKeyInTitle</key>
+<key>ShowActiveProcessInTitle</key>
+LjMxNzY0NzA2OTcgMC4zMTc2NDcwNjk3IDAuMzE3NjQ3MDY5NwAQAYAC0hAREhNaJGNs
+<key>SelectionColor</key>
+<real>2.02</real>
+<key>ProfileCurrentVersion</key>
+<key>Linewrap</key>
+<real>0.99596774193548387</real>
+<key>FontWidthSpacing</key>
+<key>FontAntialias</key>
+AAAAAAAAAAAAAM4=
+gAEIERojLTI3PEJLUltiaXJ0dniGi5afpqmyxMfMAAAAAAAAAQEAAAAAAAAAHAAAAAAA
+bGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290
+YXNzI0AyAAAAAAAAEBCAAoADXU1lbmxvLVJlZ3VsYXLSExQVFlokY2xhc3NuYW1lWCRj
+AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
+YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+<key>Font</key>
+AAAAAAAAAAAAAAAAAAAA1g==
+0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KJi42SnaausbrMz9QAAAAAAAABAQAAAAAAAAAZ
+bmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy
+LjUwMTk2MDgxNCAwLjUwMTk2MDgxNCAwLjUwMTk2MDgxNAAQAYAC0hAREhNaJGNsYXNz
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECQw
+<key>CursorColor</key>
+<key>BlinkText</key>
+<key>Bell</key>
+LjExNDAyMzYxMDkgMC4xMTQwMjM2MTA5IDAuMTE0MDIzNjEwOQAQAYAC0hAREhNaJGNs
+<key>BackgroundColor</key>
+<real>0.0</real>
+<key>BackgroundBlur</key>
+AAAAAAAAzQ==
+AQgRGiMtMjc7QUhOW2KAgoSJlJ2lqLHDxssAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAA
+c3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SA
+IDAuODAwMDAwMDExOSAwLjQwMDAwMDAwNgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xh
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEBsx
+<key>ANSIYellowColor</key>
+rK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
+dF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGa
+IDEAEAGAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVj
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMSAx
+<key>ANSIWhiteColor</key>
+Ljk0OTAxOTYxMDkgMC40NjY2NjY2Njg3IDAuNDc4NDMxMzczOAAQAYAC0hAREhNaJGNs
+<key>ANSIRedColor</key>
+LjgzMTM3MjYxODcgMC42NjY2NjY2ODY1IDAuODI3NDUxMDUwMwAQAoAC0hAREhNaJGNs
+<key>ANSIMagentaColor</key>
+LjYwMDAwMDAyMzggMC44MDAwMDAwMTE5IDAuNjAwMDAwMDIzOAAQAYAC0hAREhNaJGNs
+<key>ANSIGreenColor</key>
+LjQ3MDU4ODI2NjggMC44MjM1Mjk0ODE5IDAuODI3NDUxMDUwMwAQAoAC0hAREhNaJGNs
+<key>ANSICyanColor</key>
+<key>ANSIBrightYellowColor</key>
+AAAAAADM
+CBEaIy0yNztBSE5bYn+Bg4iTnKSnsMLFygAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAA
+c2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIAB
+IDAuOTk5OTc0MzcgMC45OTk5OTEyOTc3ABABgALSEBESE1okY2xhc3NuYW1lWCRjbGFz
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPEBox
+<key>ANSIBrightWhiteColor</key>
+<key>ANSIBrightRedColor</key>
+LjgwMDAwMDAxMTkgMC42MDAwMDAwMjM4IDAuODAwMDAwMDExOQAQAYAC0hAREhNaJGNs
+<key>ANSIBrightMagentaColor</key>
+<key>ANSIBrightGreenColor</key>
+ABkAAAAAAAAAAAAAAAAAAADY
+ZXLRFxhUcm9vdIABCBEaIy0yNztBSE5bYouNj5SfqLCzvM7R1gAAAAAAAAEBAAAAAAAA
+c3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2
+LjQwMDAwMDAwNiAwLjgwMDAwMDAxMTkgMC44MDAwMDAwMTE5ABABgALSEBESE1okY2xh
+AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECYw
+<key>ANSIBrightCyanColor</key>
+LjQwMDAwMDAwNiAwLjYwMDAwMDAyMzggMC44MDAwMDAwMTE5ABABgALSEBESE1okY2xh
+<key>ANSIBrightBlueColor</key>
+LjYwMDAwMDAyMzggMC42MDAwMDAwMjM4IDAuNjAwMDAwMDIzOAAQAYAC0hAREhNaJGNs
+<key>ANSIBrightBlackColor</key>
+<key>ANSIBlueColor</key>
+<key>ANSIBlackColor</key>
+<dict>
+<plist version="1.0">
+ln -s /Volumes/MICHAEL IOS/ios_backup/Backup ~/Library/Application\ Support/MobileSync/Backup?xml version="1.0" encoding="UTF-8"?>
+uname
+chflags nohidden ~/Library/
+v
+chflags nohidden ~/Library/chflags nohidden ~/Library/
+/Users/michaelwongMBP/Desktop/Gonzaga\ Grad\ Video/High\ School/colin\ and\ Zach\ copy ; exit;
+ln -s /Volumes/External/ios_backup/Backup ~/Library/Application\ Support/MobileSync/Backup
+ln -s /Volumes/MICHAEL IOS/ios_backup/Backup ~/Library/Application\ Support/MobileSync/Backup
